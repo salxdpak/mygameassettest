@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 723.65 345.62">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Impact, Impact;
+        font-size: 155.12px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4, .cls-2, .cls-5, .cls-6 {
+        stroke: #231f20;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 22.09px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 30.18px;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        stroke-width: 25.52px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="361.09" y1="69.96" x2="361.09" y2="287.94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#801a00"/>
+      <stop offset="1" stop-color="#a72454"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="554.43" y1="313.38" x2="167.74" y2="-73.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bc2600"/>
+      <stop offset="1" stop-color="#f13479"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-6" x="12.76" y="78.81" width="698.13" height="254.05" rx="72.91" ry="72.91"/>
+  <rect class="cls-5" x="56.21" y="69.96" width="609.76" height="217.98" rx="46.4" ry="46.4"/>
+  <rect class="cls-4" x="56.21" y="11.05" width="609.76" height="217.98" rx="46.4" ry="46.4"/>
+  <g>
+    <text class="cls-1" transform="translate(216.41 178.85)"><tspan x="0" y="0">FOLD</tspan></text>
+    <text class="cls-2" transform="translate(216.41 178.85)"><tspan x="0" y="0">FOLD</tspan></text>
+    <text class="cls-3" transform="translate(216.41 178.85)"><tspan x="0" y="0">FOLD</tspan></text>
+  </g>
+</svg>
