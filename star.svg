@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 854.03 819.22">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff200;
+      }
+
+      .cls-2 {
+        stroke: url(#New_Pattern_Swatch_2);
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 80px;
+      }
+
+      .cls-4 {
+        fill: url(#New_Pattern_Swatch_1);
+      }
+
+      .cls-5 {
+        fill: #231f20;
+      }
+    </style>
+    <pattern id="New_Pattern_Swatch_2" data-name="New Pattern Swatch 2" x="0" y="0" width="264" height="264" patternTransform="translate(-3779.86 -3613.01) scale(.54)" patternUnits="userSpaceOnUse" viewBox="0 0 264 264">
+      <g>
+        <rect class="cls-1" width="264" height="264"/>
+        <rect class="cls-5" width="264" height="264"/>
+      </g>
+    </pattern>
+    <pattern id="New_Pattern_Swatch_1" data-name="New Pattern Swatch 1" x="0" y="0" width="264" height="264" patternTransform="translate(-3779.86 -3613.01) scale(.54)" patternUnits="userSpaceOnUse" viewBox="0 0 264 264">
+      <g>
+        <rect class="cls-1" width="264" height="264"/>
+        <rect class="cls-3" width="264" height="264"/>
+      </g>
+    </pattern>
+  </defs>
+  <path class="cls-2" d="M455.13,57.47l95.31,193.12c4.57,9.25,13.39,15.66,23.6,17.15l213.12,30.97c25.71,3.74,35.98,35.33,17.37,53.47l-154.21,150.32c-7.39,7.2-10.76,17.58-9.02,27.75l36.41,212.26c4.39,25.61-22.49,45.14-45.48,33.05l-190.62-100.21c-9.13-4.8-20.04-4.8-29.17,0l-190.62,100.21c-23,12.09-49.88-7.44-45.48-33.05l36.41-212.26c1.74-10.17-1.63-20.55-9.02-27.75L49.5,352.18c-18.61-18.14-8.34-49.73,17.37-53.47l213.12-30.97c10.21-1.48,19.04-7.9,23.6-17.15L398.91,57.47c11.5-23.3,44.72-23.3,56.22,0Z"/>
+  <path class="cls-4" d="M455.13,57.47l95.31,193.12c4.57,9.25,13.39,15.66,23.6,17.15l213.12,30.97c25.71,3.74,35.98,35.33,17.37,53.47l-154.21,150.32c-7.39,7.2-10.76,17.58-9.02,27.75l36.41,212.26c4.39,25.61-22.49,45.14-45.48,33.05l-190.62-100.21c-9.13-4.8-20.04-4.8-29.17,0l-190.62,100.21c-23,12.09-49.88-7.44-45.48-33.05l36.41-212.26c1.74-10.17-1.63-20.55-9.02-27.75L49.5,352.18c-18.61-18.14-8.34-49.73,17.37-53.47l213.12-30.97c10.21-1.48,19.04-7.9,23.6-17.15L398.91,57.47c11.5-23.3,44.72-23.3,56.22,0Z"/>
+</svg>
